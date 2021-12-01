@@ -1,4 +1,4 @@
-# Employee Tracker
+# E-Commerce Back End
 ## Description
 
 The E-Commerce Back End API is an Insomnia tested API utilizing Express and Sequelize to manage data for a hypothetical E-Commerce inventory. The motivation for this project was to design API calls and database queries to manage data for an E-Commerce site. This project was built to demonstrate the Object-Relational Mapping (ORM) utilized for database storage and API calls. I utilized my skills developing models in Sequelize, using Express to set up routes, and testing the responses in Insomnia to complete this project. 
